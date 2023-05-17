@@ -8879,7 +8879,7 @@
 	{
 		"id": 808,
 		"name": "Meltan",
-		"type": ["Steel"],
+    "type": ["Steel"],
 		"hp": 46,
 		"attack": 65,
 		"defense": 65,
